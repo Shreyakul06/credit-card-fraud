@@ -21,4 +21,3 @@ Python (NumPy, Pandas, Scikit-learn)
 Imbalanced-learn (SMOTE)
 Google Colab
 
-Dataset Link i have used: "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"
