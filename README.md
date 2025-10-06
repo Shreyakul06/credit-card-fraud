@@ -20,5 +20,3 @@ Focus on reducing false negatives (catching more frauds)
 Python (NumPy, Pandas, Scikit-learn)
 Imbalanced-learn (SMOTE)
 Google Colab
-
-Dashboard:"C:\Users\shrey\Downloads\credit card.pbix"
